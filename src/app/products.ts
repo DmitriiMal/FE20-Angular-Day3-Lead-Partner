@@ -24,20 +24,20 @@ export const products = [
     img: 'https://cdn.pixabay.com/photo/2016/03/20/20/51/gerbil-1269468_1280.jpg',
   },
   {
-    id: 4,
-    name: 'Fish Tank Filter',
-    description:
-      'Efficient filter system to maintain a clean and healthy aquarium environment.',
-    price: 29.99,
-    img: 'https://m.media-amazon.com/images/I/81GG2t-HP0L._AC_SL1500_.jpg',
-  },
-  {
     id: 5,
     name: 'Bird Cage',
     description:
       "Spacious and durable bird cage for your feathered friend's comfort.",
     price: 49.95,
     img: 'https://images.unsplash.com/photo-1552826580-0d47cf898dee?auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8QmlyZCUyMENhZ2V8ZW58MHx8MHx8fDA%3D&w=800',
+  },
+  {
+    id: 4,
+    name: 'Fish Tank Filter',
+    description:
+      'Efficient filter system to maintain a clean and healthy aquarium environment.',
+    price: 29.99,
+    img: 'https://m.media-amazon.com/images/I/81GG2t-HP0L._AC_SL1500_.jpg',
   },
   {
     id: 6,
